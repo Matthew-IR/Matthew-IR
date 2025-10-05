@@ -1,6 +1,13 @@
 ## Hi there, Im Matthew 👋
 
-I'm a final-year Computer Science student with expereince in Software Engineering and Cyber Security.
+I'm a final-year Computer Science student at the University of Birmingham with industry experience in Software Engineering and Cyber Security.
+
+Whilst on my industry year I worked as a full stack engineer using React, SQL, Azure and PowerPlatform.
+
+## Languages and Tools
+-   **Languages:** Python, C/C++, JavaScript, SQL, Java
+-   **Cloud & DevOps:** Azure (AD, Functions, SQL Server), Git, Docker, Bash
+-   **Frameworks & Platforms:** React, Next.js, Power Platform, NodeJS
 
 ## Current Learning
 - Robotics and intelligent actions using Webots
