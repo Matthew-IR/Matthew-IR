@@ -10,11 +10,12 @@ Whilst on my industry year I worked as a full stack engineer using React, SQL, A
 -   **Frameworks & Platforms:** React, Next.js, Power Platform, NodeJS
 
 ## Current Learning
-- Robotics and intelligent actions using Webots
+- macOS Security Architecture
 - Deeper concepts of networking
 - ARM and x64 reverse engineering
 
 ## Current Work
+- ARM64 macOS anticheat research
 - Creating a command line utility for secure communication using C++
 - Creating a Next.js website with SEO to advertise
 
