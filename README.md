@@ -1,8 +1,6 @@
 ## Hi there, Im Matthew 👋
 
-I'm a final-year Computer Science student at the University of Birmingham with industry experience in Software Engineering and Cyber Security.
-
-Whilst on my industry year I worked as a full stack engineer using React, SQL, Azure and PowerPlatform.
+I'm a Computer Science graduate with industry experience in Software Engineering and Cyber Security.
 
 ## Languages and Tools
 -   **Languages:** Python, C/C++, JavaScript, SQL, Java
@@ -11,16 +9,9 @@ Whilst on my industry year I worked as a full stack engineer using React, SQL, A
 
 ## Current Learning
 - macOS Security Architecture
-- Deeper concepts of networking
 - ARM and x64 reverse engineering
 
-## Current Work
-- ARM64 macOS anticheat research
-- Creating a command line utility for secure communication using C++
-- Creating a Next.js website with SEO to advertise
-
 <!--
-**Matthew-IR/Matthew-IR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
